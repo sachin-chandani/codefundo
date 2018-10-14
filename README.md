@@ -1,4 +1,4 @@
-# Help-Alert
+# Help-Alert Application
 An android application built using Google maps API and Rest API to alert people about the emergency situations.
 
 Idea:
